@@ -26,17 +26,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 
-</p>
-## 📊 My Github Stats
-<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chiraggandherva08&show_icons=true&locale=en" alt="chiraggandherva08" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chiraggandherva08&show_icons=true&locale=en&layout=compact" alt="chiraggandherva08" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiraggandherva08&" alt="chiraggandherva08" /></p>
-
-<a href="https://github.com/chiraggandherva08/github-readme-activity-graph"><img alt="Chirag Gandherva's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=chiraggandherva08&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 ## Connect with me
 
@@ -47,10 +37,3 @@
 <a href="https://twitter.com/gandherva2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
 <a href="https://instagram.com/chiraggandherva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 
-</p>
-
-## ❤ Views and Followers
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chiraggandherva08&label=Profile%20views&color=0e75b6&style=flat" alt="chiraggandherva08" /> 
-<a href="https://github.com/chiraggandherva08?tab=followers"><img src="https://img.shields.io/github/followers/chiraggandherva08?label=Followers&style=social" alt="GitHub Badge"></a>
-</p>
