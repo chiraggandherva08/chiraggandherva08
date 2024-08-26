@@ -1,12 +1,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
         width="30px">, I'm Chirag Gandherva</h1>
-<h3 align="center">I'm walking on the path of becoming a full stack Developer and Data Scientist</h3>
+<h3 align="center">I'm walking on the path of becoming a full stack Developer</h3>
 
 ## About Me
 
 - I'm currently learning **Web development**
 - I'm looking to collaborate on **Open Source Project**
-- Ask me about **Html,Css,JavaScript,DataStructures,Machine-Learning**
+- Ask me about **Html, Css, JavaScript, Java & DataStructures**
 
 - How to reach me **chiraggandherva08@gmail.com**
 
